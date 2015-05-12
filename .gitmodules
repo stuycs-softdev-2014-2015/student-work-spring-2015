@@ -1,0 +1,75 @@
+[submodule "5/Softdev2-Final"]
+	path = 5/Softdev2-Final
+	url = https://github.com/rxkt/Softdev2-Final.git
+[submodule "5/Multicode"]
+	path = 5/Multicode
+	url = https://github.com/asikowitz/Multicode
+[submodule "5/Potholes"]
+	path = 5/Potholes
+	url = https://github.com/Peglegs/Potholes
+[submodule "5/MeThink"]
+	path = 5/MeThink
+	url = https://github.com/kingalex11235/MeThink
+[submodule "5/wheredabathroomatdoe"]
+	path = 5/wheredabathroomatdoe
+	url = https://github.com/abrarahmed56/wheredabathroomatdoe
+[submodule "5/commentary"]
+	path = 5/commentary
+	url = https://github.com/softdev-projects/commentary
+[submodule "5/bulletin"]
+	path = 5/bulletin
+	url = https://github.com/junhaodong/bulletin
+[submodule "5/character-sheet"]
+	path = 5/character-sheet
+	url = https://github.com/quadratic-games/character-sheet
+[submodule "6/TripLemur"]
+	path = 6/TripLemur
+	url = https://github.com/bsapozhnikov/TripLemur
+[submodule "6/okjustfishthesun"]
+	path = 6/okjustfishthesun
+	url = https://github.com/crabalockerfishwife/okjustfishthesun
+[submodule "6/Bughouse_Chess"]
+	path = 6/Bughouse_Chess
+	url = https://github.com/zhoubw/Bughouse_Chess
+[submodule "6/meetup"]
+	path = 6/meetup
+	url = https://github.com/apiccato/meetup
+[submodule "6/vynl"]
+	path = 6/vynl
+	url = https://github.com/afischer/vynl
+[submodule "6/peep"]
+	path = 6/peep
+	url = https://github.com/CinWu/peep
+[submodule "6/buyingandselling"]
+	path = 6/buyingandselling
+	url = https://github.com/claireburghard/buyingandselling
+[submodule "6/Rulo-2.0"]
+	path = 6/Rulo-2.0
+	url = https://github.com/AdamDeHovitz/Rulo-2.0
+[submodule "7/summarize"]
+	path = 7/summarize
+	url = https://github.com/mchaiken/summarize
+[submodule "7/pathfinder"]
+	path = 7/pathfinder
+	url = https://github.com/corrrin9797/pathfinder
+[submodule "7/spillblit"]
+	path = 7/spillblit
+	url = https://github.com/Citronnade/spillblit
+[submodule "7/authorensics"]
+	path = 7/authorensics
+	url = https://github.com/I-A-I/authorensics
+[submodule "7/pictophone"]
+	path = 7/pictophone
+	url = https://github.com/mcookhome/pictophone
+[submodule "7/swagcess"]
+	path = 7/swagcess
+	url = https://github.com/SwagCity/swagcess
+[submodule "6/Nenov__Kim__Hlebowicz"]
+	path = 6/Nenov__Kim__Hlebowicz
+	url = https://github.com/chriskim511/Nenov__Kim__Hlebowicz
+[submodule "7/ShitChat"]
+	path = 7/ShitChat
+	url = https://github.com/CobyGoldbergs/ShitChat
+[submodule "7/buyingandselling"]
+	path = 7/buyingandselling
+	url = https://github.com/claireburghard/buyingandselling
